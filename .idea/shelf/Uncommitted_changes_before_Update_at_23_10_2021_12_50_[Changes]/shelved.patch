@@ -1,9 +1,0 @@
-Index: lesson1/Home_Work1.py
-===================================================================
-diff --git a/lesson1/Home_Work1.py b/lesson1/Home_Work1.py
-deleted file mode 100644
---- a/lesson1/Home_Work1.py	(revision b96651e0bf184d8af4f68339461b477e85a3bd5e)
-+++ /dev/null	(revision b96651e0bf184d8af4f68339461b477e85a3bd5e)
-@@ -1,2 +0,0 @@
--name = "Natalia"
--age = 39
