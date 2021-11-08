@@ -1,0 +1,136 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"1f7f2af6-6ee4-4b57-8908-4109eab45bab\" name=\"Changes\" comment=\"First lesson\">\r\n      <change afterPath=\"$PROJECT_DIR$/lesson-1/HomeWork_6.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"lesson-1\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"RESET_MODE\" value=\"MIXED\" />\r\n  </component>\r\n  <component name=\"GitSEFilterConfiguration\">\r\n    <file-type-list>\r\n      <filtered-out-file-type name=\"LOCAL_BRANCH\" />\r\n      <filtered-out-file-type name=\"REMOTE_BRANCH\" />\r\n      <filtered-out-file-type name=\"TAG\" />\r\n      <filtered-out-file-type name=\"COMMIT_BY_MESSAGE\" />\r\n    </file-type-list>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1zYB5F8svxY2tZHzg1wYEtOC8lH\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/lesson-1/HomeWork_6.py\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"project.propVCSSupport.Mappings\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Admin\\Dropbox\\Python\\python\\lesson1\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"HomeWork_6\" type=\"PythonConfigurationType\" factoryName=\"Python\">\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"C:\\Users\\Admin\\AppData\\Local\\Microsoft\\WindowsApps\\python3.9.exe\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/lesson-1\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <module name=\"\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/lesson-1/HomeWork_6.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"1f7f2af6-6ee4-4b57-8908-4109eab45bab\" name=\"Changes\" comment=\"\" />\r\n      <created>1634314955652</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1634314955652</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"First lesson\">\r\n      <created>1634923898651</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1634923898651</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"First lesson\">\r\n      <created>1634923913809</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1634923913809</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"First lesson\">\r\n      <created>1634978293888</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1634978293888</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"First lesson\">\r\n      <created>1634982598358</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1634982598358</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"First lesson\">\r\n      <created>1634982655609</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1634982655609</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"First lesson\">\r\n      <created>1634983480694</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1634983480694</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"First lesson\">\r\n      <created>1634984907893</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1634984907893</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"First lesson\">\r\n      <created>1634986699171</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1634986699171</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"9\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"lesson-1\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"First lesson\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"First lesson\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 1c775d57e2c9ac0b142a12d661e215c6b628ce19)
++++ b/.idea/workspace.xml	(date 1635967544201)
+@@ -4,9 +4,15 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="1f7f2af6-6ee4-4b57-8908-4109eab45bab" name="Changes" comment="First lesson">
+-      <change afterPath="$PROJECT_DIR$/lesson-1/HomeWork_6.py" afterDir="false" />
++    <list default="true" id="1f7f2af6-6ee4-4b57-8908-4109eab45bab" name="Changes" comment="Second lesson">
++      <change afterPath="$PROJECT_DIR$/lesson-3/HomeWork_1.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson-3/HomeWork_2.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson-3/HomeWork_3.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson-3/HomeWork_4.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson-3/HomeWork_5.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/lesson-3/HomeWork_6-7.py" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/lesson-1/HomeWork_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson-1/HomeWork_5.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -21,6 +27,26 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <favorite-branches>
++      <branch-storage>
++        <map>
++          <entry type="LOCAL">
++            <value>
++              <list>
++                <branch-info repo="$PROJECT_DIR$" source="lesson-3" />
++              </list>
++            </value>
++          </entry>
++          <entry type="REMOTE">
++            <value>
++              <list>
++                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
++              </list>
++            </value>
++          </entry>
++        </map>
++      </branch-storage>
++    </favorite-branches>
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+         <entry key="$PROJECT_DIR$" value="lesson-1" />
+@@ -37,8 +63,13 @@
+       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+     </file-type-list>
+   </component>
++  <component name="GithubDefaultAccount">
++    <option name="defaultAccountId" value="248813f5-17ef-411e-a85b-52133f9efc88" />
++  </component>
+   <component name="ProjectId" id="1zYB5F8svxY2tZHzg1wYEtOC8lH" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
++    <ConfirmationsSetting value="2" id="Add" />
++  </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+@@ -46,8 +77,9 @@
+   <component name="PropertiesComponent">
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson-1/HomeWork_6.py" />
+-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
++    <property name="TODO_SCOPE" value="All Changed Files" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
++    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+   </component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+@@ -156,7 +188,7 @@
+                   <entry key="branch">
+                     <value>
+                       <list>
+-                        <option value="lesson-1" />
++                        <option value="lesson-3" />
+                       </list>
+                     </value>
+                   </entry>
+@@ -171,6 +203,7 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="First lesson" />
+-    <option name="LAST_COMMIT_MESSAGE" value="First lesson" />
++    <MESSAGE value="Second lesson" />
++    <option name="LAST_COMMIT_MESSAGE" value="Second lesson" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: lesson-1/HomeWork_5.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>#Запросите у пользователя значения выручки и издержек фирмы.\r\n# Определите, с каким финансовым результатом работает фирма\r\n# (прибыль — выручка больше издержек, или убыток — издержки больше выручки).\r\n# Выведите соответствующее сообщение. Если фирма отработала с прибылью, вычислите рентабельность выручки\r\n# (соотношение прибыли к выручке).\r\n# Далее запросите численность сотрудников фирмы и определите прибыль фирмы в расчете на одного сотрудника.\r\nnumber_1 = int(input('Введите размер выручки в рублях: '))\r\nnumber_2 = int(input('Введите размер издержек в рублях: '))\r\n\r\nif number_2 > number_1:\r\n    print('Ваша фирма работает в убыток')\r\nif number_2 < number_1:\r\n    print('Ваша фирма работает с прибылью')\r\n    r =  number_1 // number_2\r\n    print('Прибыль превыщает издержки в', r, 'раз')\r\n    p = int(input('Сколько человек работает в Вашей фирме: '))\r\n    s = number_1 // p\r\n    print('Прибыль на одного человека составляет: ', s, 'рублей')\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/lesson-1/HomeWork_5.py b/lesson-1/HomeWork_5.py
+--- a/lesson-1/HomeWork_5.py	(revision 1c775d57e2c9ac0b142a12d661e215c6b628ce19)
++++ b/lesson-1/HomeWork_5.py	(date 1635600836513)
+@@ -11,9 +11,9 @@
+     print('Ваша фирма работает в убыток')
+ if number_2 < number_1:
+     print('Ваша фирма работает с прибылью')
+-    r =  number_1 // number_2
+-    print('Прибыль превыщает издержки в', r, 'раз')
++    r = (number_1 - number_2) / number_1
++    print(f'Рентабельность: r')
+     p = int(input('Сколько человек работает в Вашей фирме: '))
+-    s = number_1 // p
++    s = (number_1 - number_2) / p
+     print('Прибыль на одного человека составляет: ', s, 'рублей')
+ 
+diff --git a/lesson-3/HomeWork_3.py b/lesson-3/HomeWork_3.py
+new file mode 100644
+diff --git a/lesson-3/HomeWork_2.py b/lesson-3/HomeWork_2.py
+new file mode 100644
+diff --git a/lesson-3/HomeWork_1.py b/lesson-3/HomeWork_1.py
+new file mode 100644
+diff --git a/lesson-3/HomeWork_6-7.py b/lesson-3/HomeWork_6-7.py
+new file mode 100644
+diff --git a/lesson-3/HomeWork_5.py b/lesson-3/HomeWork_5.py
+new file mode 100644
+diff --git a/lesson-3/HomeWork_4.py b/lesson-3/HomeWork_4.py
+new file mode 100644
