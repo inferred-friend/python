@@ -11,9 +11,9 @@ if number_2 > number_1:
     print('Ваша фирма работает в убыток')
 if number_2 < number_1:
     print('Ваша фирма работает с прибылью')
-    r =  number_1 // number_2
-    print('Прибыль превыщает издержки в', r, 'раз')
+    r = (number_1 - number_2) / number_1
+    print(f'Рентабельность: r')
     p = int(input('Сколько человек работает в Вашей фирме: '))
-    s = number_1 // p
+    s = (number_1 - number_2) / p
     print('Прибыль на одного человека составляет: ', s, 'рублей')
 
