@@ -1,0 +1,4 @@
+Borisov 18000
+Sergeeva 28000
+Maximov 19500
+Petrov 20500
